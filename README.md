@@ -11,6 +11,11 @@ Este documento provê instruções sobre como realizar uma conexão com um servi
 
 # Mobile Connection
 
-A Mobile Connection é a classe principal da SDK. Através dela é possível configurar a conexão com o servidor do Elipse Mobile e chamar as funções descritas nos exemplos.
+Através da classe Mobile Connection é possível configurar a conexão com o servidor do Elipse Mobile e chamar as funções descritas nos exemplos.
 
 # Instalação
+
+Para utilizar a SDK é necessário apenas referenciar o arquivo mobileConnection.min.js ao projeto desejado:
+```html
+<script type="text/javascript" src="mobileConnection.min.js"></script>
+```
